@@ -1,0 +1,34 @@
+.section-wrapper {
+  width: 50%;
+  padding: 50px;
+  background: #97dea3;
+  margin: 20px auto;
+  border: 2px solid #108efe;
+}
+
+.category-title {
+  padding: 20px;
+  background-color: #f5ffbd;
+  text-transform: uppercase;
+  font-weight: 900;
+  text-align: center;
+  border-bottom: 2px solid #108efe;
+  border-top: 2px solid #108efe;
+}
+.items-wrapper {
+  display: flex;
+  gap: 20px;
+}
+.item {
+  background: #ffeeff;
+  padding: 5px 20px;
+  width: 33%;
+  min-height: 100%;
+}
+.item-title {
+  text-transform: uppercase;
+}
+.item-image {
+  object-fit: cover;
+  width: 33%;
+}
