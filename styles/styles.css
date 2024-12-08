@@ -31,4 +31,5 @@
 .item-image {
   object-fit: cover;
   width: 33%;
+  padding: 10px;
 }
